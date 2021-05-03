@@ -1,0 +1,24 @@
+From e32616fa5f95e82024d62ba149a49de1d39b8670 Mon Sep 17 00:00:00 2001
+From: Kateryna Bugaieva <sonnensmile@gmail.com>
+Date: Thu, 29 Apr 2021 13:00:58 +0200
+Subject: [PATCH 1/2] add commit for patch
+
+---
+ src/App.js | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/App.js b/src/App.js
+index 344cfaa..157ee91 100644
+--- a/src/App.js
++++ b/src/App.js
+@@ -16,6 +16,7 @@ function App() {
+           rel="noopener noreferrer"
+         >
+          I am the first repo here
++         extra commit for the patch
+         </a>
+       </header>
+     </div>
+-- 
+2.16.2
+

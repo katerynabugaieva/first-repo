@@ -1,0 +1,24 @@
+From 57fb829b5fd7d9238f76531f5ea4b28b537e6424 Mon Sep 17 00:00:00 2001
+From: Kateryna Bugaieva <sonnensmile@gmail.com>
+Date: Fri, 30 Apr 2021 13:01:20 +0200
+Subject: [PATCH 2/2] add second commit for patch
+
+---
+ src/App.js | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/App.js b/src/App.js
+index 157ee91..a8066d0 100644
+--- a/src/App.js
++++ b/src/App.js
+@@ -17,6 +17,7 @@ function App() {
+         >
+          I am the first repo here
+          extra commit for the patch
++         extra commit for the second patch
+         </a>
+       </header>
+     </div>
+-- 
+2.16.2
+
